@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sang (Sean)!
+# 👋 Hi, I'm Sang (Sean)
 🔭 Maintaining ReacType, an open-source project I co-developed<br>
 🌱 Enthusiastic contributor to the open-source community.<br>
 💬 Featured Speaker in Bracklet's Tech Talk Series - "Frontend Frameworks Alternatives - Vue"<br>
